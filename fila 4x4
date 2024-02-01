@@ -1,0 +1,13 @@
+$nomention
+
+$title[$getServerVar[serverID]]
+$color[$getServerVar[colorID]]
+
+$description[🔥|Fila criada!
+Para entrar na fila pressione o botão verde,para sair da fila pressione o bo~tão cinza, e para encerrar pressione o botão cinza!
+
+Participantes
+Capitão: <@sauthorID>]
+Player: <@sauthorID>]
+Player: <@sauthorID>]
+Player: <@sauthorID>]
